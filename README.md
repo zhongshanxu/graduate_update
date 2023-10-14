@@ -10,7 +10,7 @@
 
 3-Inexact_Newton_Iteration，牛顿迭代-Richardson迭代法（探针极限下的孤子解为例）,毕业前期对迭代法的一点初步探索.
 
-------
+
 对于ProjectSoliton_Backreaction，请以v2.3/O2_comments为参考，其他目录类似文件尚未随之更新！
 如发现问题，请随时联系：15652325166
 Best.
